@@ -388,7 +388,7 @@ En los pasos siguientes se crea una base de datos denominada `TestDB`.
 
 ### <a name="insert-data"></a>Inserción de datos
 
-Luego cree una tabla, `Inventory`, e inserte dos filas nuevas.
+Luego cree una tabla, con el nombre`Inventory`, e inserte dos filas nuevas.
 
 1. En el símbolo del sistema de **sqlcmd**, cambie el contexto a la nueva base de datos `TestDB`:
 
@@ -470,7 +470,7 @@ En los pasos siguientes, se usa **sqlcmd** fuera de su contenedor para conectars
    ```
    ::: zone-end
 
-1. Ejecute los comandos Transact-SQL. Cuando termine, escriba `QUIT`.
+1. Ejecute los comandos Transact-SQL. Cuando termine, escriba `QUIT`en la terminal.
 
 Estas son otras herramientas de uso común para conectarse a SQL Server:
 
