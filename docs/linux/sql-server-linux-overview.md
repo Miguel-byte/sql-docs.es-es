@@ -24,7 +24,7 @@ A partir de SQL Server 2017, SQL Server se ejecuta en Linux. Es el mismo motor d
 ::: moniker-end
 
 ::: moniker range=">= sql-server-ver15 || >= sql-server-linux-ver15"
-La versión preliminar de SQL Server 2019 se ejecuta en Linux. Es el mismo motor de base de datos de SQL Server, con muchas características y servicios similares, independientemente del sistema operativo. Para obtener más información sobre esta versión, vea [Novedades de la versión preliminar de SQL Server 2019 para Linux](../sql-server/what-s-new-in-sql-server-ver15.md#sql-server-on-linux).
+La versión preliminar de SQL Server 2019 se ejecuta en Linux. Es el mismo gestor de base de datos de SQL Server, con muchas características y servicios similares, independientemente del sistema operativo. Para obtener más información sobre esta versión, vea [Novedades de la versión preliminar de SQL Server 2019 para Linux](../sql-server/what-s-new-in-sql-server-ver15.md#sql-server-on-linux).
 ::: moniker-end
 
 ::: moniker range="= sql-server-2017"
@@ -70,7 +70,7 @@ Después de la instalación, conéctese a la instancia de SQL Server en el equip
 <!--SQL Server 2017 on Linux-->
 ::: moniker range="= sql-server-linux-2017 || = sql-server-2017"
 
-SQL Server 2017 tiene el mismo motor de base de datos subyacente en todas las plataformas compatibles, incluido Linux. Por lo tanto, muchas características y capacidades existentes funcionan de la misma manera en Linux. En esta parte de la documentación se exponen algunas de estas características desde la perspectiva de Linux. También se mencionan áreas que tienen requisitos únicos en Linux.
+SQL Server 2017 tiene el mismo gestor de base de datos subyacente en todas las plataformas compatibles, incluido Linux. Por lo tanto, muchas características y capacidades existentes funcionan de la misma manera en Linux. En esta parte de la documentación se exponen algunas de estas características desde la perspectiva de Linux. También se mencionan áreas que tienen requisitos únicos en Linux.
 
 Si ya está familiarizado con SQL Server, revise las [Notas de la versión](sql-server-linux-release-notes.md) para obtener instrucciones generales y saber los problemas conocidos de esta versión. Eche un vistazo a [Novedades de SQL Server en Linux](sql-server-linux-whats-new.md) y a [Novedades de SQL Server 2017](../sql-server/what-s-new-in-sql-server-2017.md).
 
@@ -78,7 +78,7 @@ Si ya está familiarizado con SQL Server, revise las [Notas de la versión](sql-
 <!--SQL Server 2019 on Linux-->
 ::: moniker range=">= sql-server-linux-ver15 || >= sql-server-ver15"
 
-[!INCLUDE[SQL Server 2019](../includes/sssqlv15-md.md)] tiene el mismo motor de base de datos subyacente en todas las plataformas compatibles, incluido Linux. Por lo tanto, muchas características y capacidades existentes funcionan de la misma manera en Linux. En esta parte de la documentación se exponen algunas de estas características desde la perspectiva de Linux. También se mencionan áreas que tienen requisitos únicos en Linux.
+[!INCLUDE[SQL Server 2019](../includes/sssqlv15-md.md)] tiene el mismo gestor de base de datos subyacente en todas las plataformas compatibles, incluido Linux. Por lo tanto, muchas características y capacidades existentes funcionan de la misma manera en Linux. En esta parte de la documentación se exponen algunas de estas características desde la perspectiva de Linux. También se mencionan áreas que tienen requisitos únicos en Linux.
 
 Si ya está familiarizado con SQL Server en Linux, revise las [Notas de la versión](sql-server-linux-release-notes-2019.md) para obtener instrucciones generales y saber los problemas conocidos de esta versión. Eche un vistazo a [Novedades de la versión preliminar de SQL Server 2019 en Linux](../sql-server/what-s-new-in-sql-server-ver15.md?view=sql-server-ver15).
 
@@ -87,7 +87,7 @@ Si ya está familiarizado con SQL Server en Linux, revise las [Notas de la versi
 <!--SQL Server All Versions-->
 ::: moniker range="=sqlallproducts-allversions"
 
-SQL Server 2017 y [!INCLUDE[SQL Server 2019](../includes/sssqlv15-md.md)] tienen el mismo motor de base de datos subyacente en todas las plataformas compatibles, incluido Linux. Por lo tanto, muchas características y capacidades existentes funcionan de la misma manera en Linux. En esta parte de la documentación se exponen algunas de estas características desde la perspectiva de Linux. También se mencionan áreas que tienen requisitos únicos en Linux.
+SQL Server 2017 y [!INCLUDE[SQL Server 2019](../includes/sssqlv15-md.md)] tienen el mismo gestor de base de datos subyacente en todas las plataformas compatibles, incluido Linux. Por lo tanto, muchas características y capacidades existentes funcionan de la misma manera en Linux. En esta parte de la documentación se exponen algunas de estas características desde la perspectiva de Linux. También se mencionan áreas que tienen requisitos únicos en Linux.
 
 Si ya está familiarizado con SQL Server en Linux, revise las notas de la versión:
 
