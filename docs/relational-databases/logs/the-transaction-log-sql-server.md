@@ -23,7 +23,7 @@ ms.locfileid: "68083937"
 ---
 # <a name="the-transaction-log-sql-server"></a>El registro de transacciones (SQL Server)
 [!INCLUDE[appliesto-ss-xxxx-xxxx-xxx-md](../../includes/appliesto-ss-xxxx-xxxx-xxx-md.md)]
-Todas las bases de datos de [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)] tienen un registro de transacciones que registra todas las transacciones y las modificaciones que cada transacción realiza en la base de datos.
+Todas las bases de datos de [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)] tienen un registro de transacciones, las cuales registran todas las transacciones y modificaciones que cada transacción realiza en la base de datos.
   
 El registro de transacciones es un componente esencial de la base de datos. Si hay un error del sistema, ese registro será necesario para devolver la base de datos a un estado coherente. 
 
