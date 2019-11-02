@@ -21,7 +21,7 @@ ms.locfileid: "70929787"
 # <a name="sql-data-discovery-and-classification"></a>Clasificación y detección de datos de SQL
 [!INCLUDE[appliesto-ss-xxxx-xxxx-xxx-md](../../includes/appliesto-ss-xxxx-xxxx-xxx-md.md)]
 
-La clasificación y detección de datos cuenta con una nueva herramienta integrada en SQL Server Management Studio (SSMS) para **detectar**, **clasificar**, **etiquetar** & **notificar** los datos confidenciales de las bases de datos.
+La clasificación y detección de datos, cuenta con una nueva herramienta integrada en SQL Server Management Studio (SSMS) para **detectar**, **clasificar**, **etiquetar** & **notificar** los datos confidenciales de las bases de datos.
 La detección y clasificación de la información más confidencial (empresarial, financiera, sanitaria, etc.) pueden desempeñar un papel fundamental en el estado de protección de la información de la organización. Puede servir como infraestructura para lo siguiente:
 * Ayudar a cumplir los estándares de privacidad de datos.
 * Controlar el acceso a bases de datos o columnas que contienen datos altamente confidenciales y aumentar su seguridad.
