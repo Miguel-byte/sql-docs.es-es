@@ -35,7 +35,7 @@ ms.locfileid: "71296275"
 
 
 
- El Asistente para importación y exportación de [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)] ofrece una manera sencilla de copiar datos de un origen a un destino. En esta introducción se describen los orígenes de datos que el asistente puede usar como orígenes y destinos, así como los permisos que necesita para ejecutar al asistente.
+ El Asistente para la  importación y exportación de [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)] ofrece una manera sencilla y rápida de copiar datos desde un origen a un destino. En esta introducción se describen los orígenes de datos que el asistente puede usar como orígenes y destinos, así como los permisos que necesita para ejecutar al asistente.
 
 ## <a name="get-the-wizard"></a>Obtener el asistente
 Si desea ejecutar el asistente, pero no tiene [!INCLUDE[msCoName](../../includes/msconame-md.md)] [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)] instalado en el equipo, puede instalar el Asistente para importación y exportación de [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)] mediante la instalación de SQL Server Data Tools (SSDT). Para obtener más información, vea [Descargar SQL Server Data Tools (SSDT)](https://msdn.microsoft.com/library/mt204009.aspx).
