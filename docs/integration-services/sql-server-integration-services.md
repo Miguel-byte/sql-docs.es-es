@@ -35,7 +35,7 @@ ms.locfileid: "71296862"
 
 [!INCLUDE[msCoName](../includes/msconame-md.md)] [!INCLUDE[ssISnoversion](../includes/ssisnoversion-md.md)] es una plataforma para la creación de soluciones empresariales de transformaciones de datos e integración de datos. Use [!INCLUDE[ssISnoversion](../includes/ssisnoversion-md.md)] para resolver complejos problemas empresariales mediante la copia o descarga de archivos, la carga de almacenamientos de datos, la limpieza y minería de datos y la administración de datos y objetos de [!INCLUDE[ssNoVersion](../includes/ssnoversion-md.md)].
 
-[!INCLUDE[ssISnoversion](../includes/ssisnoversion-md.md)] puede extraer y transformar datos de diversos orígenes como archivos de datos XML, archivos planos y orígenes de datos relacionales y, después, cargar los datos en uno o varios destinos.
+[!INCLUDE[ssISnoversion](../includes/ssisnoversion-md.md)] puede extraer y transformar datos de diversos orígenes como archivos de datos XML, archivos de textos planos y orígenes de datos relacionales y, después, cargar los datos en uno ó varios destinos.
 
 [!INCLUDE[ssISnoversion](../includes/ssisnoversion-md.md)] incluye un amplio conjunto de tareas y transformaciones integradas, herramientas gráficas para crear paquetes y la base de datos del catálogo[!INCLUDE[ssISnoversion](../includes/ssisnoversion-md.md)], donde se almacenan, ejecutan y administran los paquetes.
 
